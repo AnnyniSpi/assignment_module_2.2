@@ -1,0 +1,2 @@
+liquibase:
+  change-log: db/changelog/main_changelog.xml
